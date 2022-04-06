@@ -2,7 +2,7 @@
 
 This project is auto hosting via [readthedocs](https://readthedocs.org/). Here is the target document page built from this project:
 
- [https://yuzehengtai.readthedocs.io](https://yuzehengtai.readthedocs.io)
+ [https://yuzehengtaidocs.readthedocs.io](https://yuzehengtaidocs.readthedocs.io)
 
 
 
