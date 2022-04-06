@@ -1,0 +1,7 @@
+.DS_Store
+en/build
+.git
+zh_CN/source
+zh_CN/make.bat
+zh_CN/Makefile
+.vscode
