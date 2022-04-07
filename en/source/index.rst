@@ -12,9 +12,9 @@ Nodes
 ------------------  ------------------  ------------------
 `CubeCell`_         `ESP32+LoRa`_       `STM32+LoRa`_
 ------------------  ------------------  ------------------ 
-|ESP32+Arduino|_    |ESP8266+Arduino|_    
+|ESP32+Arduino|_        
 ------------------  ------------------  ------------------ 
-`ESP32+Arduino`_    `ESP8266+Arduino`_  
+`ESP32+Arduino`_     
 ==================  ==================  ==================
 
 .. |CubeCell| image:: img/01.png
@@ -28,9 +28,6 @@ Nodes
 
 .. |ESP32+Arduino| image:: img/04.png
 .. _ESP32+Arduino: esp32+arduino/index.html
-
-.. |ESP8266+Arduino| image:: img/05.png
-.. _ESP8266+Arduino: esp8266+arduino/index.html
 
 Gateways
 --------
@@ -140,15 +137,6 @@ General Docs
    Quick Start <esp32+arduino/quick_start>
    esp32+arduino/wifi_kit_32/index
    Frequently Asked Questions <esp32+arduino/frequently_asked_questions>
-   
-.. toctree::
-   :hidden:
-   :caption: ESP8266 + Arduino
-
-   esp8266+arduino/index
-   Quick Start <esp8266+arduino/quick_start>
-   esp8266+arduino/wifi_kit_8/index
-   Frequently Asked Questions <esp8266+arduino/frequently_asked_questions>
 
 .. toctree::
    :hidden:
